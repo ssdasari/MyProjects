@@ -4,7 +4,7 @@ public class Test {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Testing..changed branching7");
+		System.out.println("Conflicts testing changes done in master");
 	}
 
 }
